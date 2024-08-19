@@ -1,0 +1,31 @@
+title: Weston Davidson - Portfolio
+profile_img: /assets/img/profile.jpg
+icon_img: /assets/img/icon.webp
+
+name: "Weston Davidson"
+job: "Information Technology Systems Analyst"
+
+phone_number: 1 (386) 341-5726
+address: Port Orange, FL, USA
+email: westondavidson@outlook.com
+linkedin_username: westondavidson
+github_username: westondavidson
+instagram_username: instagram
+twitter_username: twitter
+facebook_username: facebook
+youtube_username: youtube
+blog_url: homepage-url
+
+# If your repo name follows the format "<user-name>.github.io", then leave the below blank.
+# Otherwise, set its value as "/<repo-name>". ex) baseurl: /resume
+baseurl:
+
+exclude:
+  - _posts/
+  - resources/
+  - vendor/
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag

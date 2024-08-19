@@ -1,0 +1,20 @@
+subject: Education
+listing-order: 2
+icon: "/assets/img/graduation-cap.svg"
+contents:
+  - title: Daytona State College, Bachelor of Science in Information Technology
+    description:
+      - Design of a method to build a probabilistic generative model
+      - Development of model calibration algorithm for cross-domain few-shot learning
+    grade: "**GPA**: `3.17/4.0`"
+    date: Aug. 2015 - Aug. 2020
+  - title: Revature Programming Bootcamp, .NET Developer Graduate
+    description:
+      - Development of deep learning algorithms for automatically tracking the facial expressions
+      - Optimizing parameter efficient fine tuning for fairness in medical image analysis
+    date: Feb. 2021 - May 2021
+  - title: Certified Associate Project Manager
+    description:
+      - Development of deep learning algorithms for automatically tracking the facial expressions
+      - Optimizing parameter efficient fine tuning for fairness in medical image analysis
+    date: March 2023

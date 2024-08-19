@@ -1,0 +1,22 @@
+subject: Experience
+listing-order: 1
+icon: "/assets/img/briefcase.svg"
+contents:
+  - title: Southern California Edison
+    role: IT Systems Analyst
+    description:
+      - Led development of a new chatbot software utilizing large language model
+      - Co-designer of '*Kopilot*' and '*Gemmini*'
+    date: Jan. 2024 - Present
+  - title: Daytona State College
+    role: Helpdesk Services Specialist
+    description: 
+      - Built a Java microservice, database schema to manage customer accounts
+      - Enhanced internal pipelines to query real-time data from client devices
+    date: Jan. 2018 - Aug. 2020
+  - title: Various Customer Service Positions
+    role: Security Guard, Customer Service Representative
+    description: 
+      - Designed the dynamic website using React for data visualization
+      - Integrated '*Yolo*' to boost the accuracy of the object detection
+    date: Jan. 2015 - Dec. 2017
