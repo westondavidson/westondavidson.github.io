@@ -97,8 +97,8 @@ a { text-decoration:none; }
         font-size: 0;
         vertical-align: middle;
         clip-path: inset(0 100% 0 0);
-        transition: font-size .6s ease-in-out, clip-path .4s;
-        transition-delay: 0s, .45s;
+        transition: font-size .3s ease-in-out, clip-path .4s;
+        transition-delay: 0s, .2s;
         transition-property: font-size, clip-path;
     }
 

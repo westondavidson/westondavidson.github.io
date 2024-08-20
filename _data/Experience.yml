@@ -2,21 +2,26 @@ subject: Experience
 listing-order: 1
 icon: "/assets/img/briefcase.svg"
 contents:
-  - title: Southern California Edison
+  - title: Southern California Edison (Contracted via Infosys)
     role: IT Systems Analyst
     description:
-      - Led development of a new chatbot software utilizing large language model
-      - Co-designer of '*Kopilot*' and '*Gemmini*'
+      - Analyzes company infrastructure and executes enhancements that will align with the company’s business strategy.
+      - Creates and manages project plans for scope, schedule, cost, quality, risk, and communications.
+      - Develops analysis tools and reports using Power BI, Python, data warehouses and Jupyter.
+      - Leads teams during daily standups to assign tasks and work through project blockers.
+      - Works alongside SMEs from all disciplines including Cybersecurity, Network Operations, Database Admin and Wintel to bring work packages to closure.
+      - Gathers business requirements from business teams in all portfolios to meet company needs.
+
     date: Jan. 2024 - Present
   - title: Daytona State College
     role: Helpdesk Services Specialist
     description: 
-      - Built a Java microservice, database schema to manage customer accounts
-      - Enhanced internal pipelines to query real-time data from client devices
+      - Assisted faculty and students with technical issues. 
+      - Employed a ticketing system to track incidents, requests and work orders. 
+      - Led cross-department meetings with System Administrators and Field Technicians to plan approach for upcoming changes to systems and workflows. 
     date: Jan. 2018 - Aug. 2020
   - title: Various Customer Service Positions
     role: Security Guard, Customer Service Representative
     description: 
-      - Designed the dynamic website using React for data visualization
-      - Integrated '*Yolo*' to boost the accuracy of the object detection
+      - Completed regularly assigned tasks by management.
     date: Jan. 2015 - Dec. 2017

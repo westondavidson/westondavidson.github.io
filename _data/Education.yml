@@ -4,17 +4,20 @@ icon: "/assets/img/graduation-cap.svg"
 contents:
   - title: Daytona State College, Bachelor of Science in Information Technology
     description:
-      - Design of a method to build a probabilistic generative model
-      - Development of model calibration algorithm for cross-domain few-shot learning
+      - Served as webmaster for the student newspaper "Daytona State In Motion"
+      - Specialized credit hours in cybersecurity and web development courses.
     grade: "**GPA**: `3.17/4.0`"
     date: Aug. 2015 - Aug. 2020
   - title: Revature Programming Bootcamp, .NET Developer Graduate
     description:
-      - Development of deep learning algorithms for automatically tracking the facial expressions
-      - Optimizing parameter efficient fine tuning for fairness in medical image analysis
+      - Received hands-on experience with full-stack development in a simulated work environment.
+      - Worked as the front-end team lead for final project.
+      - Developed a social media platform using the MEAN stack and microservice architecture with web audio API hooks to allow users to write music in a digital audio workstation, share their creations, and create sample packs for other artists.
+      - Developed skills in multiple technologies, including Angular, Bootstrap, Entity Frameworks, SQL DB relational DBs, Azure Cloud, Docker, and DevOps practices.
+      - A full review of skills developed can be found here - <a href="assets/Weston Davidson - Revature Portfolio.pdf" target="_blank">Revature Portfolio</a>
     date: Feb. 2021 - May 2021
   - title: Certified Associate Project Manager
     description:
-      - Development of deep learning algorithms for automatically tracking the facial expressions
-      - Optimizing parameter efficient fine tuning for fairness in medical image analysis
+      - Received the CAPM certification from the Project Management Institute.
+      - Learned the fundamentals for end to end project execution in all project phases, along with agile and waterfall methodologies, SCRUM, Kanban, cost-benefit analysis and other tools used in the discipline.
     date: March 2023

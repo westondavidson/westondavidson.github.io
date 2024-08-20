@@ -10,11 +10,12 @@ address: Port Orange, FL, USA
 email: westondavidson@outlook.com
 linkedin_username: westondavidson
 github_username: westondavidson
-instagram_username: instagram
-twitter_username: twitter
-facebook_username: facebook
-youtube_username: youtube
-blog_url: homepage-url
+resume_download: Resume Download
+# instagram_username: instagram
+# twitter_username: twitter
+# facebook_username: facebook
+# youtube_username: youtube
+# blog_url: homepage-url
 
 # If your repo name follows the format "<user-name>.github.io", then leave the below blank.
 # Otherwise, set its value as "/<repo-name>". ex) baseurl: /resume
