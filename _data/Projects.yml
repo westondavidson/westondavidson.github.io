@@ -1,0 +1,24 @@
+subject: Projects
+listing-order: 3
+icon: "/assets/img/clipboard-list.svg"
+contents:
+    - title: "AI Transcription Software ([https://github.com/westondavidson/python-transcriber-ai/blob/main/transcript_summarizer.py](https://github.com/westondavidson/python-transcriber-ai/blob/main/transcript_summarizer.py))" 
+    description: 
+      - Machine learning library for applications such as computer vision and natural language processing
+      - "Technology Used: Python, Tkinter, Whisper (Openai), Openai API, Git"
+    image: "![](/assets/img/transcriber-app.png)"
+    - title: "Ebay Price Finder iOS Application ([https://github.com/westondavidson/python-transcriber-ai/blob/main/transcript_summarizer.py](https://github.com/westondavidson/python-transcriber-ai/blob/main/transcript_summarizer.py))" 
+    description: 
+      - Machine learning library for applications such as computer vision and natural language processing
+      - "Technology Used: Python, Tkinter, Whisper (Openai), Openai API, Git"
+    image: "![](/assets/img/transcriber-app.png)"
+  - title: "Comunidad De Fe Website (CMS included)"
+    description: 
+      - Church website built with CMS and deployed via Netlify for easy church admin updates and a custom theme.
+      - "Technology Used: Netlify, DecapCMS, Hugo, HTML, CSS, JavaScript"
+    image: "![](/assets/img/cdf-web-image.png)"
+  - title: "Portfolio Website (This website)"
+    description: 
+      - Online resume/portfolio website built with Jekyll and hosted on GitHub Pages.
+      - "Technology Used: Jekyll, GitHub Pages, HTML, CSS, JavaScript"
+    image: "![](/assets/img/portfolio-site.png)"
