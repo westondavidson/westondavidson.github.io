@@ -2,17 +2,22 @@ subject: Projects
 listing-order: 3
 icon: "/assets/img/clipboard-list.svg"
 contents:
-    - title: "AI Transcription Software ([https://github.com/westondavidson/python-transcriber-ai/blob/main/transcript_summarizer.py](https://github.com/westondavidson/python-transcriber-ai/blob/main/transcript_summarizer.py))" 
+  - title: "AI Transcription Software - [Link to GitHub](https://github.com/westondavidson/python-transcriber-ai/blob/main/transcript_summarizer.py)" 
     description: 
-      - Machine learning library for applications such as computer vision and natural language processing
+      - "Transcription software that takes in audio input, records and feeds audio in chunks to a local Whisper model, and then provides a summary of the audio by sending the full transcript to the OpenAI API."
       - "Technology Used: Python, Tkinter, Whisper (Openai), Openai API, Git"
     image: "![](/assets/img/transcriber-app.png)"
-    - title: "Ebay Price Finder iOS Application ([https://github.com/westondavidson/python-transcriber-ai/blob/main/transcript_summarizer.py](https://github.com/westondavidson/python-transcriber-ai/blob/main/transcript_summarizer.py))" 
+  - title: "Price Analyzer iOS Application - [Link to GitHub](https://github.com/westondavidson/ebay-price-finder)" 
     description: 
-      - Machine learning library for applications such as computer vision and natural language processing
-      - "Technology Used: Python, Tkinter, Whisper (Openai), Openai API, Git"
-    image: "![](/assets/img/transcriber-app.png)"
-  - title: "Comunidad De Fe Website (CMS included)"
+      - "Calculates average sale prices for Ebay items and outputs recommended pricing to meet desired profit margin. Uses a Google sheet and Google scripts for simple and easy to access backend database."
+      - "Technology Used: Swift, SwiftUI, MVVM Architecture, xCode, Ebay Developer API, Google Sheets API, Google Scripts, Git"
+    image: "![](/assets/img/ebay-price-finder.png)"
+  - title: "Digital Audio Workstation (RevMixer) - [Link to GitHub](https://github.com/210215-USF-RevMixer/RevMixer-Frontend)" 
+    description: 
+      - "Full-Stack application completed as a final project for my programming bootcamp that functions as a social media driven digital audio workstation, allowing users to create, edit, and share audio tracks."
+      - "Technology Used: C#, PostgreSQL, Angular 10, Sonarcloud, xUnit Testing, Azure, Azure DevOps, ASP.NET Core Web API"
+    image: "![]()"
+  - title: "Comunidad De Fe Church Website with CMS - [Visit Website](https://cdfdavenport.com/)"
     description: 
       - Church website built with CMS and deployed via Netlify for easy church admin updates and a custom theme.
       - "Technology Used: Netlify, DecapCMS, Hugo, HTML, CSS, JavaScript"

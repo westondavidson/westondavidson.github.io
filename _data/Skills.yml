@@ -4,10 +4,10 @@ icon: "/assets/img/screwdriver-wrench.svg"
 contents:
   - title: Programming Languages
     description:
-    - Python, DAX, C#, Java, SQL, Javascript, HTML, CSS
+    - Python, C#, Java, SQL, Javascript, HTML, CSS, Swift
   - title: Frameworks & Services
     description: 
-    - Azure Cloud, Docker, GitHub, Git, Entity Framework, Jupyter, MatPlotLib, NumPy, Power BI, MSSQL
+    - Azure Cloud, Docker, GitHub, Git, Entity Framework, Jupyter, MatPlotLib, NumPy, Power BI, MSSQL, SwiftUI, MVVM Architecture, xCode, Ebay Developer API, Google Sheets API, Google Scripts, Git
   - title: Additional Skills
     description:
     - Team leadership, stakeholder communication, critical thinking, analysis, electricity services domain knowledge, Microsoft Office application proficiency, technical writing, PMBOK knowledge, project management knowledge, tacit business and IT understanding 
